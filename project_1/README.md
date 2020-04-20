@@ -101,8 +101,11 @@ The SAT participation rates are generally consistent between 2017 and 2018. Simi
 
 Generally, the states with significant increase in SAT participations between 2017 and 2018 have prior participation rates around the 9-11% range. The national average score is 1020 in 2016 then. This could soften the ground further for the three states to adopt mandatory SAT test in 2017.
 
-The College Board could consider focusing on states with i) similar participation rates for the coming year (i.e. 2018 participation rates for 2019 efforts), and total scores close to the national average. Moving forwards, one potential candidate is **Montana**, with its 2018 participation rates 10% and mean SAT total score 1198. The national avaerage SAT score for 2018 is 1060. 
+The College Board could consider focusing on states with i) similar participation rates for the coming year (i.e. 2018 participation rates for 2019 efforts), and total scores close to the national average. Moving forwards, one potential candidate is **Montana**, with its 2018 participation rates 10% and mean SAT total score 1198. The national average SAT score for 2018 is 1060. 
 
 Understandably, transition from ACT to SAT is not an easy decision, with high stakes involved for students and families. Parents of the students would not concerned regarding whether their children can adjust to the new SAT test format and requirements. As part of the outreach effort, the College Board could consider working with the State's educational board to create materials to ease student's transition from ACT to SAT. 
+Also, the College Board should review and implement initiatives to lower the entry barrier for students from low-income households. Some potential solutions include scholarships and SAT program day.
+
+**On the presentation materials, there would be a range of potential State candidates which the College Board may chose to focus on among the team members. After deliberation, the team chose to converge on South Dakota.**
 
 ---
