@@ -7,9 +7,9 @@ _Author: Sheng Jun, DSI 14_
 
 ### Introduction 
 
-This README file is intended to provide an overview of the modeling process for Project 1. The scope of Project 2 involves building a regression model based on the Ames Housing Dataset. This model will predict the transactional saleprice of a house in Ames City.
+This README file is intended to provide an overview of the modeling process for Project 1. The scope of Project 2 involves building a regression model based on the Ames Housing Dataset. This model will predict the transactional sale price of a house in Ames City.
 
-This project is also centered around utlising Kaggle as a platform to practice data science. 
+This project is also centered around utilizing Kaggle as a platform to practice data science. 
 
 ---
 
